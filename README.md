@@ -13,11 +13,9 @@ Open Source Softwares like LLVM, Linux, Math libraries and so on.
 git clone https://github.com/fujitsu/A64FX
 ```
 
-# Author
+# Contact
 
-* Mikio HONDOU
-* FUJITSU LIMITED
-* hondou@jp.fujitsu.com
+* Mikio HONDOU (hondou@jp.fujitsu.com), FUJITSU LIMITED
 
 # License
 
