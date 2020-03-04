@@ -21,7 +21,7 @@ git clone https://github.com/fujitsu/A64FX
 
 # License
 
-Copyright(C) 019 Fujitsu Limited,
+Copyright(C) 2019 Fujitsu Limited,
 4-1-1 Kamikodanaka, Nahakara-ku, Kawasaki, 211-8588, Japan.
 All rights reserved.
 
