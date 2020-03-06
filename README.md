@@ -2,7 +2,7 @@
 
 # Features
 
-A64FX is Fujitsu's ARM microprocessor which conforms to Armv8 + SVE.
+A64FX is Fujitsu's Arm microprocessor which conforms to Armv8 + SVE.
 
 This repository provides the documents and sample codes to develop
 Open Source Softwares like LLVM, Linux, Math libraries and so on.
@@ -15,11 +15,11 @@ git clone https://github.com/fujitsu/A64FX
 
 # Contact
 
-* Mikio HONDOU (hondou@jp.fujitsu.com), FUJITSU LIMITED
+* email: a64fx-info@spd.cs.fujitsu.co.jp
 
 # License
 
-Copyright(C) 2019 Fujitsu Limited,
+Copyright(c) 2019 Fujitsu Limited,
 4-1-1 Kamikodanaka, Nahakara-ku, Kawasaki, 211-8588, Japan.
 All rights reserved.
 
@@ -33,6 +33,9 @@ The product(s) described in this book may be protected by one or more
 U.S. patents, foreign patents, or pending applications.
 
 TRADEMARKS
+
+Arm is a registered trademark of Arm Limited (or its subsidiaries) in 
+the US and/or elsewhere.
 
 Fujitsu and the Fujitsu logo are trademarks of Fujitsu Limited.
 
