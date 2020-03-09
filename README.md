@@ -20,7 +20,7 @@ git clone https://github.com/fujitsu/A64FX
 # License
 
 Copyright(c) 2019 Fujitsu Limited,
-4-1-1 Kamikodanaka, Nahakara-ku, Kawasaki, 211-8588, Japan.
+4-1-1 Kamikodanaka, Nakahara-ku, Kawasaki, 211-8588, Japan.
 All rights reserved.
 
 This product and related documentation are protected by copyright and
@@ -39,7 +39,7 @@ the US and/or elsewhere.
 
 Fujitsu and the Fujitsu logo are trademarks of Fujitsu Limited.
 
-This publication is provided ¡Èas is¡É without warranty of any kind,
+This publication is provided Â¡Ãˆas isÂ¡Ã‰ without warranty of any kind,
 either express or implied, including, but not limited to, the implied
 warranties of merchantability, fitness for a particular purpose, or
 noninfringement.
